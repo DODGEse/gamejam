@@ -11,5 +11,6 @@ public class testing : MonoBehaviour
     {
         Debug.Log("nice");
         Debug.Log("ok");
+        Debug.Log("ok2");
     }
 }
