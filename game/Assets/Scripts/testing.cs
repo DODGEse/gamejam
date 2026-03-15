@@ -10,5 +10,6 @@ public class testing : MonoBehaviour
     void Update()
     {
         Debug.Log("nice");
+        Debug.Log("ok");
     }
 }
