@@ -10,4 +10,5 @@ public class TransferSO : ScriptableObject
         lvl3,
         lvl4
     }
+    public Village VillageLVL;
 }
