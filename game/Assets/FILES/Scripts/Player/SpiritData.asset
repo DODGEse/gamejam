@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8116c70f4acdde105b8e23c1d2c79277, type: 3}
+  m_Name: SpiritData
+  m_EditorClassIdentifier: Assembly-CSharp::BuyManager
+  health: 100
+  advantage: None
+  weakness: LightFear
+  fearMultiply: 10
+  PlayerModel: {fileID: -5292338354962713966, guid: 40826bd2f936174e9b607f3dfeed3926, type: 3}
+  PlayerPrefab: {fileID: 0}
